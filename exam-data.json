@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "Which keyword describes an event written directly inside an HTML element attribute?",
+      "answer": "Inline Events"
+    },
+    {
+      "question": "True or False: Inline events are event handlers added directly within an HTML element’s attribute.",
+      "answer": "True"
+    },
+    {
+      "question": "What method in JavaScript attaches an event handler to an element without overwriting existing ones?",
+      "answer": "addEventListener()"
+    },
+    {
+      "question": "What term describes delaying a function call until a certain time has passed since the last invocation?",
+      "answer": "Debouncing"
+    },
+    {
+      "question": "What technique ensures a function runs at most once every specified period?",
+      "answer": "Throttling"
+    },
+    {
+      "question": "What do we call a function passed into another function as an argument, executed later?",
+      "answer": "Callback function"
+    },
+    {
+      "question": "True or False: The main advantage of Promises over callbacks is that they avoid callback hell and allow cleaner chaining.",
+      "answer": "True"
+    },
+    {
+      "question": "Which keyword pauses execution of a function until a Promise resolves?",
+      "answer": "await"
+    },
+    {
+      "question": "True or False: document.querySelector(\"#myId\") returns the first element that matches the CSS selector #myId.",
+      "answer": "True"
+    },
+    {
+      "question": "Which JavaScript method is commonly used to make HTTP requests?",
+      "answer": "fetch()"
+    },
+    {
+      "question": "Which event attribute is triggered when a key is pressed down?",
+      "answer": "onkeydown"
+    },
+    {
+      "question": "Which event attribute is triggered when text in an input field changes?",
+      "answer": "onchange"
+    },
+    {
+      "question": "Which event attribute triggers when an element is double-clicked?",
+      "answer": "ondblclick"
+    },
+    {
+      "question": "Which event attribute triggers when a form is submitted?",
+      "answer": "onsubmit"
+    },
+    {
+      "question": "Which event attribute triggers when an element is dragged?",
+      "answer": "ondragstart"
+    },
+    {
+      "question": "Which event attribute triggers when a media file starts playing?",
+      "answer": "onplay"
+    },
+    {
+      "question": "Which event attribute triggers when a media file is paused?",
+      "answer": "onpause"
+    },
+    {
+      "question": "Which event attribute is triggered when a window is resized?",
+      "answer": "onresize"
+    },
+    {
+      "question": "Which event attribute is triggered when a page finishes loading?",
+      "answer": "onload"
+    },
+    {
+      "question": "Which event attribute is triggered when a touch interaction starts?",
+      "answer": "ontouchstart"
+    }
+  ]
+}
